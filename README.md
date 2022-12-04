@@ -1,7 +1,7 @@
 # i3wm-config
 Configuration file for my i3-gaps environment
 
-##i3wm information
+#i3wm information
 OS: Arch Linux
 env: i3-gaps
 Terminal: Alacritty
