@@ -6,10 +6,10 @@ Configuration file for my i3-gaps environment
 - wm: i3-gaps <br />
 - Terminal: Alacritty <br />
 - Alacritty-theme: Doomicide Darkocean <br />
-- Background manager: feh <br />
+- Background manager: Feh <br />
 - Compositor: Picom <br />
-- Drun/ProgLauncher: rofi <br />
-- Audio: pipewire-pulse
+- Drun/Program Launcher: Rofi <br />
+- Audio: Pipewire
 
 ### Dependencies
 - All of the above mentioned software (with distro of choice)
