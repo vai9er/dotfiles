@@ -2,11 +2,11 @@
 Configuration file for my i3-gaps environment
 
 ## i3wm information
-OS: Arch Linux \n
-env: i3-gaps
-Terminal: Alacritty
-Alacritty-theme: Doomicide Darkocean
-Background manager: feh
-Compositor: Picom
-Drun/ProgLauncher: rofi
+OS: Arch Linux <br />
+env: i3-gaps <br />
+Terminal: Alacritty <br />
+Alacritty-theme: Doomicide Darkocean <br />
+Background manager: feh <br />
+Compositor: Picom <br />
+Drun/ProgLauncher: rofi <br />
 
