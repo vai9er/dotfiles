@@ -1,5 +1,5 @@
 # i3wm-config
-Configuration file for my i3-gaps environment (SEE BELOW FOR ENV AND DEPENDENCIES)
+Configuration file for my i3-gaps Linux environment (SEE BELOW FOR ENV AND DEPENDENCIES)
 
 ![image](https://user-images.githubusercontent.com/67750020/205484608-d0d2244d-d054-4173-a935-b75f1ad4991b.png)
 ![image](https://user-images.githubusercontent.com/67750020/205484743-dff25937-5579-484f-9e08-5ccb609323c7.png)
