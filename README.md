@@ -17,7 +17,6 @@ Configuration file for my i3-gaps environment
 - nm-applett
 - pactl
 - brightness
-- alacritty-themes
 - rofi-theme-selector
 - xss-lock
 - flameshot
