@@ -3,7 +3,7 @@ Configuration file for my i3-gaps environment
 
 ## i3wm information
 OS: Arch Linux <br />
-env: i3-gaps <br />
+wm: i3-gaps <br />
 Terminal: Alacritty <br />
 Alacritty-theme: Doomicide Darkocean <br />
 Background manager: feh <br />
