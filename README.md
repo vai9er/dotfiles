@@ -19,6 +19,8 @@ Configuration file for my i3-gaps environment
 - brightness
 - rofi-theme-selector
 - xss-lock
+- xrandr
+- arandr
 - flameshot
 - tlp
 
